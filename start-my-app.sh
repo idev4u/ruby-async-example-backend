@@ -1,1 +1,1 @@
-bundle exec ruby myapp.rb
+bundle exec ruby my_backend_app.rb
